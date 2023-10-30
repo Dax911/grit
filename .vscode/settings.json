@@ -1,0 +1,7 @@
+{
+    "deepscan.ignoreConfirmWarning": true,
+    "rust-analyzer.rustc.source": "discover",
+    "rust-analyzer.linkedProjects": [
+        "/Cargo.toml"
+    ]
+}

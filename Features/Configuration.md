@@ -16,6 +16,7 @@ Implement a robust and flexible configuration system within GRIT to allow users 
 - **System-Wide Configuration**: Located in a system-specific directory (e.g., `/etc/grit/config.toml` on Linux). Applies defaults for all users.
 - **User-Specific Configuration**: Located in the user’s home directory (e.g., `~/.gritconfig.toml`). Overrides system-wide settings for the specific user.
 - **Project-Specific Configuration**: Located in the project’s root directory (e.g., `.grit/config.toml`). Overrides user-specific and system-wide settings for the specific project.
+- **Ignore Config**: Will need an ignore file at somepoint.
 
 ### 3. **Configuration Options**
 

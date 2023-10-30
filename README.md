@@ -16,4 +16,4 @@ Eventually I hope to make it more feature rich and perhaps something akin to an 
  - [ ] Server stuff
  - [ ] Git Interoperatability
  - [ ] Pull Requests
- - [ ] 
+  
